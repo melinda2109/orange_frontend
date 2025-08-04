@@ -10,7 +10,7 @@
 git config --global user.name "maria_rsc"
 ```
 
-- **Explanation**: This command sets your Git username globally. It means Git will use "Andrei Popescu" as your name for all commits made on your machine, unless overridden in a specific repository.
+- **Explanation**: This command sets your Git username globally. It means Git will use "maria_rsc" as your name for all commits made on your machine, unless overridden in a specific repository.
 
 ```bash
 git config --global user.email "mariarascol21@gmail.com"
