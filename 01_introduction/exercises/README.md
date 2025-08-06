@@ -1,19 +1,19 @@
 ## Practice Exercises
 
-1. Print the current working directory.
-2. Create a folder named `git_project`.
-3. Navigate into `git_project` and create two files: `README.md` and `main.py`.
-4. Create a subfolder `src` and move `main.py` inside it.
-5. List all contents of the current folder in detailed mode.
-6. Go back to the parent directory.
-7. Delete the `git_project` folder with all its contents.
-8. Repeat the folder creation using `TAB` for autocompletion.
-9. Use `ctrl + r` to reuse a previously typed command.
-10. Clear the terminal using the `clear` command.
-11. Create and push the changes to a new GitHub repository.
+1. Display the current directory using `pwd`.
+2. Create a directory named `git_project` and navigate into it.
+3. Inside, create two subdirectories: `src` and `docs`.
+4. Inside `src`, create two empty files: `main.py` and `utils.py`.
+5. List all files and directories including hidden ones.
+6. Go one level back and create a `README.md` file.
+7. Remove the `docs` folder using `rmdir` (make sure it's empty).
+8. Create a nested folder structure `demo/test1/test2` in one command.
+9. Navigate to `test2` using only relative paths.
+10. Clear the terminal using `clear` or `Ctrl + L`.
+11. Commits and push the changes to your GitHub repository.
 
 ```bash
-git add
-git commit -m "Completed practice exercises"
-git push 
+git add .
+git commit -m "choose a descriptive message"
+git push
 ```
