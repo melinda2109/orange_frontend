@@ -23,3 +23,5 @@ git config --global --list
 ```
 
 - **Explanation**: This command lists all global configuration settings currently set in Git (like your username and email). It helps verify that the previous commands were executed correctly.
+
+https://github.com/alingrig87/Orange_frontend_2025/blob/main/01_Introduction/Exercises/README.md?plain=1 
