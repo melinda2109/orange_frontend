@@ -1,0 +1,19 @@
+h2 {
+  color: red;
+}
+
+.text-dark {
+  color: darkblue;
+}
+
+.text-bolt {
+  font-weight: bold;
+}
+
+.text-italic {
+  font-style: italic;
+}
+
+#second-h2 {
+  color: green;
+}
