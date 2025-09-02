@@ -76,9 +76,9 @@
   background-color: rgb(220, 20, 87);
   width: 200px;
   height: 100px;
-  bottom: 555px;
+  bottom: 80px;
   left: 100px;
-  /* border-radius: 30%; */
+  border-radius: 30%;
   border: 5px solid black;
   /* cu bottom si left modific pozitia in sus/jos stanga/dreapta; */
 }
